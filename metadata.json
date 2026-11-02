@@ -1,0 +1,8 @@
+{
+  "name": "NeuroStim+ – Smart. Wireless. Wearable.",
+  "description": "Clinical wireless electrotherapy (TENS & NMES) and rehabilitation platform featuring Bluetooth wearable connectivity, patient assessment, biofeedback, guided exercises, and progress tracking under Dr. Harshit Raj.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
